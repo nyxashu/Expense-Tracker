@@ -14,7 +14,7 @@ Persistent Storage: Expenses are saved to a JSON file (expenses.json) and loaded
 Clone the repository:
 
  code
-git clone https://github.com/yourusername/expense-tracker.git
+git clone https://github.com/nyxashu/expense-tracker.git
 Navigate to the project directory:
 
  code
