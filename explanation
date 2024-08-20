@@ -1,0 +1,25 @@
+Explanation:
+
+load_expenses(): Loads expenses from a JSON file. If the file doesn't exist, it returns an empty list.
+
+save_expenses(): Saves expenses to a JSON file.
+
+add_expense(): Adds a new expense with details like amount, category, and description.
+
+view_expenses(): Displays all recorded expenses.
+
+view_expenses_by_category(): Filters and displays expenses by a specific category.
+
+main(): Provides a menu for the user to interact with the application.
+
+Running the Application:
+
+Save the expense_tracker.py file.
+
+Open a terminal or command prompt.
+
+Navigate to the directory where expense_tracker.py is saved.
+
+Run the script using the command: python expense_tracker.py.
+
+Follow the on-screen menu to add expenses, view all expenses, or filter expenses by category. This basic tracker helps users manage their spending habits effectively.
